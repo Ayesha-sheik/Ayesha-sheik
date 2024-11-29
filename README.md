@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a32e2656-e1d6-4c23-8e84-6289ba7c08f8)
 <h1 align="center">Hi 👋, I'm Sheik Ayesha</h1>
 <h3 align="center">I am a Senior year student from the background of Information Technology and I intend to be work as UI/UX designer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e16e7418a6826b5d698e941c0888d251b8eaf748f61d4a4a656d4c83e9531766/68747470733a2f2f632e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
